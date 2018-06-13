@@ -9,7 +9,7 @@
    mid = start + \(end - start\) / 2 \(防止溢出\)
 
 2. 二分的位置 （first min  rotated sorted array）
-3. 二分位置保留一半
+3. 二分位置保留一半 half half \(find peak element\)
 4. 二分答案 （copy book）
 
 Time complexity: T\(n\) = T\(n/2\) + O\(1\) = O\(logn\)
