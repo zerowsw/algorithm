@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Binary Search & LogN algorithm](binary-search-and-logn-algorithm.md)
+* [Binary Search & LogN algorithm](binary-search-and-logn-algorithm/README.md)
+  * [Last Position of Target](binary-search-and-logn-algorithm/last-position-of-target.md)
 * [Two pointers algorithm](two-pointers-algorithm.md)
 * [BFS & Topological Sort](bfs-and-topological-sort.md)
 * [Binary Tree & Tree-based DFS](binary-tree-and-tree-based-dfs.md)
