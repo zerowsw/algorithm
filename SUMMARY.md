@@ -8,6 +8,7 @@
   * [Search in a Big Sorted Array](binary-search-and-logn-algorithm/search-in-a-big-sorted-array.md)
   * [Pow\(x, n\)](binary-search-and-logn-algorithm/pow-x-n.md)
   * [Find Minimum in Rotated Sorted Array](binary-search-and-logn-algorithm/find-minimum-in-rotated-sorted-array.md)
+  * [Fast Pow](binary-search-and-logn-algorithm/fast-pow.md)
 * [Two pointers algorithm](two-pointers-algorithm.md)
 * [BFS & Topological Sort](bfs-and-topological-sort.md)
 * [Binary Tree & Tree-based DFS](binary-tree-and-tree-based-dfs.md)
