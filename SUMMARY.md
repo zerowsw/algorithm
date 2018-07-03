@@ -12,6 +12,7 @@
   * [Search in Rotated Sorted Array](binary-search-and-logn-algorithm/search-in-rotated-sorted-array.md)
 * [Two pointers algorithm](two-pointers-algorithm/README.md)
   * [Middle of Linked List](two-pointers-algorithm/middle-of-linked-list.md)
+  * [Two Sum III - Data structure design](two-pointers-algorithm/two-sum-iii-data-structure-design.md)
 * [BFS & Topological Sort](bfs-and-topological-sort.md)
 * [Binary Tree & Tree-based DFS](binary-tree-and-tree-based-dfs.md)
 * [DFS](dfs/README.md)
