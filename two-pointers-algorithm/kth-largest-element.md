@@ -16,7 +16,7 @@ Find K-th largest element in an array.
 2. 用一个固定大小的heap来处理。
 3. QuickSelect算法。
 
-妈蛋，边界条件崩掉了。。一不小心多了个=就overflow了
+妈蛋，边界条件崩掉了。。一不小心多了个=就overflow了，试想一下，如果选中的viot是最小值所在的点，这时如果判断条件是&lt;=的话， le指针会一直移动到ri指针的右侧以至越界，然后开始陷入死循环。
 
 ```java
 class Solution {
@@ -39,6 +39,7 @@ class Solution {
         int ri = right;
         int v = nums[le];
         while (le <= ri) {
+            //如果用nums[le] >= v的话，就极有可能overflow了。
             while (le <= ri && nums[le] > v) {
                 le++;
             }
