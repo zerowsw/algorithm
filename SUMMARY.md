@@ -20,6 +20,7 @@
   * [Course Schedule](bfs-and-topological-sort/untitled.md)
   * [Knight Shortest Path](bfs-and-topological-sort/knight-shortest-path.md)
   * [Sequence Construction](bfs-and-topological-sort/sequence-construction.md)
+  * [Topological Sorting](bfs-and-topological-sort/topological-sorting.md)
 * [Binary Tree & Tree-based DFS](binary-tree-and-tree-based-dfs.md)
 * [DFS](dfs/README.md)
   * [Combination-based DFS](dfs/combination-based-dfs.md)
