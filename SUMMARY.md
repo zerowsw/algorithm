@@ -29,7 +29,10 @@
   * [Closest Binary Search Tree Value II](binary-tree-and-tree-based-dfs/closest-binary-search-tree-value-ii.md)
   * [Binary Search Tree Iterator](binary-tree-and-tree-based-dfs/binary-search-tree-iterator.md)
 * [DFS](dfs/README.md)
-  * [Combination-based DFS](dfs/combination-based-dfs.md)
+  * [Combination-based DFS](dfs/combination-based-dfs/README.md)
+    * [Split String](dfs/combination-based-dfs/split-string.md)
+    * [Find the Missing Number II](dfs/combination-based-dfs/find-the-missing-number-ii.md)
+    * [Palindrome Partitioning](dfs/combination-based-dfs/palindrome-partitioning.md)
   * [Permutation-based and Graph-based DFS](dfs/permutation-based-and-graph-based-dfs.md)
 * [Dynamic Programming](dynamic-programming.md)
 
