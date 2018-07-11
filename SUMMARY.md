@@ -27,6 +27,7 @@
   * [Kth Smallest Element in a BST](binary-tree-and-tree-based-dfs/kth-smallest-element-in-a-bst.md)
   * [Lowest Common Ancestor III](binary-tree-and-tree-based-dfs/lowest-common-ancestor-iii.md)
   * [Closest Binary Search Tree Value II](binary-tree-and-tree-based-dfs/closest-binary-search-tree-value-ii.md)
+  * [Binary Search Tree Iterator](binary-tree-and-tree-based-dfs/binary-search-tree-iterator.md)
 * [DFS](dfs/README.md)
   * [Combination-based DFS](dfs/combination-based-dfs.md)
   * [Permutation-based and Graph-based DFS](dfs/permutation-based-and-graph-based-dfs.md)
