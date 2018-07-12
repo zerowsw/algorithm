@@ -33,6 +33,7 @@
     * [Split String](dfs/combination-based-dfs/split-string.md)
     * [Find the Missing Number II](dfs/combination-based-dfs/find-the-missing-number-ii.md)
     * [Palindrome Partitioning](dfs/combination-based-dfs/palindrome-partitioning.md)
+    * [Combination Sum II](dfs/combination-based-dfs/combination-sum-ii.md)
   * [Permutation-based and Graph-based DFS](dfs/permutation-based-and-graph-based-dfs.md)
 * [Dynamic Programming](dynamic-programming.md)
 
