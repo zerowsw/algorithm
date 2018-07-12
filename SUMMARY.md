@@ -34,6 +34,7 @@
     * [Find the Missing Number II](dfs/combination-based-dfs/find-the-missing-number-ii.md)
     * [Palindrome Partitioning](dfs/combination-based-dfs/palindrome-partitioning.md)
     * [Combination Sum II](dfs/combination-based-dfs/combination-sum-ii.md)
+    * [Combinations](dfs/combination-based-dfs/combinations.md)
   * [Permutation-based and Graph-based DFS](dfs/permutation-based-and-graph-based-dfs.md)
 * [Dynamic Programming](dynamic-programming.md)
 
