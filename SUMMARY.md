@@ -39,5 +39,6 @@
   * [Permutation-based and Graph-based DFS](dfs/permutation-based-and-graph-based-dfs/README.md)
     * [Next Closest Time](dfs/permutation-based-and-graph-based-dfs/next-closest-time.md)
     * [Letter Combinations of a Phone Number](dfs/permutation-based-and-graph-based-dfs/letter-combinations-of-a-phone-number.md)
+    * [String Permutation II](dfs/permutation-based-and-graph-based-dfs/string-permutation-ii.md)
 * [Dynamic Programming](dynamic-programming.md)
 
