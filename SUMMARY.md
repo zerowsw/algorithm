@@ -35,6 +35,7 @@
     * [Palindrome Partitioning](dfs/combination-based-dfs/palindrome-partitioning.md)
     * [Combination Sum II](dfs/combination-based-dfs/combination-sum-ii.md)
     * [Combinations](dfs/combination-based-dfs/combinations.md)
+    * [Remove Invalid Parentheses](dfs/combination-based-dfs/remove-invalid-parentheses.md)
   * [Permutation-based and Graph-based DFS](dfs/permutation-based-and-graph-based-dfs.md)
 * [Dynamic Programming](dynamic-programming.md)
 
