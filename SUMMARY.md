@@ -36,6 +36,8 @@
     * [Combination Sum II](dfs/combination-based-dfs/combination-sum-ii.md)
     * [Combinations](dfs/combination-based-dfs/combinations.md)
     * [Remove Invalid Parentheses](dfs/combination-based-dfs/remove-invalid-parentheses.md)
-  * [Permutation-based and Graph-based DFS](dfs/permutation-based-and-graph-based-dfs.md)
+  * [Permutation-based and Graph-based DFS](dfs/permutation-based-and-graph-based-dfs/README.md)
+    * [Next Closest Time](dfs/permutation-based-and-graph-based-dfs/next-closest-time.md)
+    * [Letter Combinations of a Phone Number](dfs/permutation-based-and-graph-based-dfs/letter-combinations-of-a-phone-number.md)
 * [Dynamic Programming](dynamic-programming.md)
 
