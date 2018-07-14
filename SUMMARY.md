@@ -41,5 +41,6 @@
     * [Letter Combinations of a Phone Number](dfs/permutation-based-and-graph-based-dfs/letter-combinations-of-a-phone-number.md)
     * [String Permutation II](dfs/permutation-based-and-graph-based-dfs/string-permutation-ii.md)
     * [N-Queens II](dfs/permutation-based-and-graph-based-dfs/n-queens-ii.md)
+    * [Word Pattern II](dfs/permutation-based-and-graph-based-dfs/word-pattern-ii.md)
 * [Dynamic Programming](dynamic-programming.md)
 
