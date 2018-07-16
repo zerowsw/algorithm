@@ -42,5 +42,6 @@
     * [String Permutation II](dfs/permutation-based-and-graph-based-dfs/string-permutation-ii.md)
     * [N-Queens II](dfs/permutation-based-and-graph-based-dfs/n-queens-ii.md)
     * [Word Pattern II](dfs/permutation-based-and-graph-based-dfs/word-pattern-ii.md)
+    * [Word Search II](dfs/permutation-based-and-graph-based-dfs/word-search-ii.md)
 * [Dynamic Programming](dynamic-programming.md)
 
