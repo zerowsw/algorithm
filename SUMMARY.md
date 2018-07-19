@@ -44,4 +44,7 @@
     * [Word Pattern II](dfs/permutation-based-and-graph-based-dfs/word-pattern-ii.md)
     * [Word Search II](dfs/permutation-based-and-graph-based-dfs/word-search-ii.md)
 * [Dynamic Programming](dynamic-programming.md)
+* [Data Structure](data-structure/README.md)
+  * [Stack, Queue, Hash, Heap](data-structure/stack-queue-hash-heap/README.md)
+    * [Moving Average from Data Stream](data-structure/stack-queue-hash-heap/moving-average-from-data-stream.md)
 
