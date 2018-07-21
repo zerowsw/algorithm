@@ -47,4 +47,6 @@
 * [Data Structure](data-structure/README.md)
   * [Stack, Queue, Hash, Heap](data-structure/stack-queue-hash-heap/README.md)
     * [Moving Average from Data Stream](data-structure/stack-queue-hash-heap/moving-average-from-data-stream.md)
+    * [Implement Stack by Two Queues](data-structure/stack-queue-hash-heap/implement-stack-by-two-queues.md)
+    * [First Unique Character in a String](data-structure/stack-queue-hash-heap/first-unique-character-in-a-string.md)
 
