@@ -48,5 +48,7 @@ public class Solution {
 }
 ```
 
+九章的解法：（设计了一个数据结构）
 
+[https://www.jiuzhang.com/solution/first-unique-character-in-a-string/](https://www.jiuzhang.com/solution/first-unique-character-in-a-string/)
 
