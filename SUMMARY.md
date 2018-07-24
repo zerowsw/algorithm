@@ -50,4 +50,6 @@
     * [Implement Stack by Two Queues](data-structure/stack-queue-hash-heap/implement-stack-by-two-queues.md)
     * [First Unique Character in a String](data-structure/stack-queue-hash-heap/first-unique-character-in-a-string.md)
     * [Insert Delete GetRandom O\(1\)](data-structure/stack-queue-hash-heap/insert-delete-getrandom-o-1.md)
+    * [K Closest Points](data-structure/stack-queue-hash-heap/k-closest-points.md)
+    * [Merge K Sorted List](data-structure/stack-queue-hash-heap/merge-k-sorted-list.md)
 
