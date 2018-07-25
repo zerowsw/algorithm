@@ -52,4 +52,5 @@
     * [Insert Delete GetRandom O\(1\)](data-structure/stack-queue-hash-heap/insert-delete-getrandom-o-1.md)
     * [K Closest Points](data-structure/stack-queue-hash-heap/k-closest-points.md)
     * [Merge K Sorted List](data-structure/stack-queue-hash-heap/merge-k-sorted-list.md)
+    * [Implement Queue by Two Stacks](data-structure/stack-queue-hash-heap/implement-queue-by-two-stacks.md)
 
