@@ -22,8 +22,39 @@ O\(_n_ log _n_\) or O\(_n_\) time.
 
 解法一，我去，，，这是最正常的想法，我想出来了，结果脑抽了。。
 
-```text
-
+```java
+public class Solution {
+    /**
+     * @param n: An integer
+     * @return: the nth prime number as description.
+     */
+    public int nthUglyNumber(int n) {
+        // write your code here
+        Queue<Long> queue = new PriorityQueue<>();
+        Set<Long> set = new HashSet<>();
+        
+        long[] prime = new long[3];
+        prime[0] = 2;
+        prime[1] = 3;
+        prime[2] = 5;
+        
+        for (int i = 0; i < 3; i++) {
+            queue.offer(prime[i]);
+            set.add(prime[i]);
+        }
+    
+        long number = 1;
+        for (int i = 1; i < n; i++) {
+            number = queue.poll();
+            for (int j = 0; j < 3; j++) {
+                if (set.contains(number * prime[j])) continue;
+                queue.offer(number * prime[j]);
+                set.add(number * prime[j]);
+            }
+        }
+        return (int)number;
+    }
+}
 ```
 
 解法二，保存三个指针分别对应2，3，5的乘数，然后，每次确保往前推一个最小值，同时确定指针如何移动。

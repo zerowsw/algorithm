@@ -55,4 +55,7 @@
     * [Implement Queue by Two Stacks](data-structure/stack-queue-hash-heap/implement-queue-by-two-stacks.md)
     * [Ugly Number II](data-structure/stack-queue-hash-heap/ugly-number-ii.md)
     * [LRU Cache](data-structure/stack-queue-hash-heap/lru-cache.md)
+  * [Interval, Array, Matrix & Binary Indexed Tree](data-structure/interval-array-matrix-and-binary-indexed-tree/README.md)
+    * [Merge Two Sorted Interval Lists](data-structure/interval-array-matrix-and-binary-indexed-tree/merge-two-sorted-interval-lists.md)
+    * [Intersection of Two Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/intersection-of-two-arrays.md)
 
