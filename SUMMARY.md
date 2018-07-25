@@ -53,4 +53,5 @@
     * [K Closest Points](data-structure/stack-queue-hash-heap/k-closest-points.md)
     * [Merge K Sorted List](data-structure/stack-queue-hash-heap/merge-k-sorted-list.md)
     * [Implement Queue by Two Stacks](data-structure/stack-queue-hash-heap/implement-queue-by-two-stacks.md)
+    * [Ugly Number II](data-structure/stack-queue-hash-heap/ugly-number-ii.md)
 
