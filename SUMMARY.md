@@ -59,4 +59,5 @@
     * [Merge Two Sorted Interval Lists](data-structure/interval-array-matrix-and-binary-indexed-tree/merge-two-sorted-interval-lists.md)
     * [Intersection of Two Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/intersection-of-two-arrays.md)
     * [Maximum Subarray](data-structure/interval-array-matrix-and-binary-indexed-tree/maximum-subarray.md)
+    * [Maximum Submatrix](data-structure/interval-array-matrix-and-binary-indexed-tree/maximum-submatrix.md)
 
