@@ -60,4 +60,5 @@
     * [Intersection of Two Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/intersection-of-two-arrays.md)
     * [Maximum Subarray](data-structure/interval-array-matrix-and-binary-indexed-tree/maximum-subarray.md)
     * [Maximum Submatrix](data-structure/interval-array-matrix-and-binary-indexed-tree/maximum-submatrix.md)
+    * [Median of K Sorted Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/median-of-k-sorted-arrays.md)
 
