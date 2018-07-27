@@ -63,4 +63,5 @@
     * [Median of K Sorted Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/median-of-k-sorted-arrays.md)
     * [Sparse Matrix Multiplication](data-structure/interval-array-matrix-and-binary-indexed-tree/sparse-matrix-multiplication.md)
     * [Merge K Sorted Interval Lists](data-structure/interval-array-matrix-and-binary-indexed-tree/merge-k-sorted-interval-lists.md)
+    * [Merge K Sorted Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/merge-k-sorted-arrays.md)
 
