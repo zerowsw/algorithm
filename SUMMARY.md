@@ -46,6 +46,8 @@
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Unique Paths II](dynamic-programming/unique-paths-ii.md)
   * [Unique Paths](dynamic-programming/unique-paths.md)
+  * [Minimum Path Sum](dynamic-programming/minimum-path-sum.md)
+  * [Largest Divisible Subset](dynamic-programming/largest-divisible-subset.md)
 * [Data Structure](data-structure/README.md)
   * [Stack, Queue, Hash, Heap](data-structure/stack-queue-hash-heap/README.md)
     * [Moving Average from Data Stream](data-structure/stack-queue-hash-heap/moving-average-from-data-stream.md)
