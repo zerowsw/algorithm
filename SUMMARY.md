@@ -43,7 +43,9 @@
     * [N-Queens II](dfs/permutation-based-and-graph-based-dfs/n-queens-ii.md)
     * [Word Pattern II](dfs/permutation-based-and-graph-based-dfs/word-pattern-ii.md)
     * [Word Search II](dfs/permutation-based-and-graph-based-dfs/word-search-ii.md)
-* [Dynamic Programming](dynamic-programming.md)
+* [Dynamic Programming](dynamic-programming/README.md)
+  * [Unique Paths II](dynamic-programming/unique-paths-ii.md)
+  * [Unique Paths](dynamic-programming/unique-paths.md)
 * [Data Structure](data-structure/README.md)
   * [Stack, Queue, Hash, Heap](data-structure/stack-queue-hash-heap/README.md)
     * [Moving Average from Data Stream](data-structure/stack-queue-hash-heap/moving-average-from-data-stream.md)
@@ -64,4 +66,5 @@
     * [Sparse Matrix Multiplication](data-structure/interval-array-matrix-and-binary-indexed-tree/sparse-matrix-multiplication.md)
     * [Merge K Sorted Interval Lists](data-structure/interval-array-matrix-and-binary-indexed-tree/merge-k-sorted-interval-lists.md)
     * [Merge K Sorted Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/merge-k-sorted-arrays.md)
+    * [Median of two Sorted Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/median-of-two-sorted-arrays.md)
 
