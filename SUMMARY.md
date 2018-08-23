@@ -71,4 +71,13 @@
     * [Median of two Sorted Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/median-of-two-sorted-arrays.md)
 * [Facebook](facebook/README.md)
   * [Count and Say](facebook/count-and-say.md)
+* [Facebook](facebook/README.md)
+  * [Integer to English Words](facebook/integer-to-english-words.md)
+  * [Valid Palindrome II](facebook/valid-palindrome-ii.md)
+  * [Add Binary](facebook/add-binary.md)
+  * [Minimum Window Substring](facebook/minimum-window-substring.md)
+  * [Best Time to Buy and Sell Stock](facebook/best-time-to-buy-and-sell-stock.md)
+  * [Move Zeroes](facebook/move-zeroes.md)
+  * [Next Permutation](facebook/next-permutation.md)
+  * [Decode Ways](facebook/decode-ways.md)
 
