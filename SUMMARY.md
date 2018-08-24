@@ -69,8 +69,6 @@
     * [Merge K Sorted Interval Lists](data-structure/interval-array-matrix-and-binary-indexed-tree/merge-k-sorted-interval-lists.md)
     * [Merge K Sorted Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/merge-k-sorted-arrays.md)
     * [Median of two Sorted Arrays](data-structure/interval-array-matrix-and-binary-indexed-tree/median-of-two-sorted-arrays.md)
-* [Facebook1](facebook/README.md)
-  * [Count and Say](facebook/count-and-say.md)
 * [Facebook](facebook/README.md)
   * [Integer to English Words](facebook/integer-to-english-words.md)
   * [Valid Palindrome II](facebook/valid-palindrome-ii.md)
@@ -80,4 +78,9 @@
   * [Move Zeroes](facebook/move-zeroes.md)
   * [Next Permutation](facebook/next-permutation.md)
   * [Decode Ways](facebook/decode-ways.md)
+  * [Divide Two Integers](facebook/divide-two-integers.md)
+  * [Meeting Room II](facebook/meeting-room-ii.md)
+  * [Task Scheduler](facebook/task-scheduler.md)
+  * [Find All Anagrams in a String](facebook/find-all-anagrams-in-a-string.md)
+  * [Valid Anagram](facebook/valid-anagram.md)
 
