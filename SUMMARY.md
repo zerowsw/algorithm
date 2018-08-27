@@ -92,6 +92,7 @@
   * [Binary Tree Maximum Path Sum](facebook/binary-tree-maximum-path-sum.md)
   * [Subarray Sum Equals K](facebook/subarray-sum-equals-k.md)
   * [Custom Sort String](facebook/custom-sort-string.md)
+  * [Find the Celebrity](facebook/find-the-celebrity.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
