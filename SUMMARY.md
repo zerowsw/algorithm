@@ -94,6 +94,7 @@
   * [Custom Sort String](facebook/custom-sort-string.md)
   * [Find the Celebrity](facebook/find-the-celebrity.md)
   * [Alien Dictionary](facebook/alien-dictionary.md)
+  * [Valid Palindrome](facebook/valid-palindrome.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
