@@ -96,6 +96,8 @@
   * [Alien Dictionary](facebook/alien-dictionary.md)
   * [Valid Palindrome](facebook/valid-palindrome.md)
   * [Shortest Distance from All Buildings](facebook/shortest-distance-from-all-buildings.md)
+  * [Clone Graph](facebook/clone-graph.md)
+  * [Basic Calculator II](facebook/basic-calculator-ii.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
