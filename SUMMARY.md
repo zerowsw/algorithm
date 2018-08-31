@@ -98,6 +98,7 @@
   * [Shortest Distance from All Buildings](facebook/shortest-distance-from-all-buildings.md)
   * [Clone Graph](facebook/clone-graph.md)
   * [Basic Calculator II](facebook/basic-calculator-ii.md)
+  * [Basic Calculator III](facebook/basic-calculator-iii.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
