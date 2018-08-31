@@ -100,6 +100,8 @@
   * [Basic Calculator II](facebook/basic-calculator-ii.md)
   * [Basic Calculator III](facebook/basic-calculator-iii.md)
   * [LRU Cache](facebook/lru-cache.md)
+  * [Add and Search Word - Data structure design](facebook/add-and-search-word-data-structure-design.md)
+  * [Implement Trie \(Prefix Tree\)](facebook/implement-trie-prefix-tree.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
