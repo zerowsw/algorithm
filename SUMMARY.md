@@ -99,6 +99,7 @@
   * [Clone Graph](facebook/clone-graph.md)
   * [Basic Calculator II](facebook/basic-calculator-ii.md)
   * [Basic Calculator III](facebook/basic-calculator-iii.md)
+  * [LRU Cache](facebook/lru-cache.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
