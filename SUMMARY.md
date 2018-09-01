@@ -102,6 +102,7 @@
   * [LRU Cache](facebook/lru-cache.md)
   * [Add and Search Word - Data structure design](facebook/add-and-search-word-data-structure-design.md)
   * [Implement Trie \(Prefix Tree\)](facebook/implement-trie-prefix-tree.md)
+  * [First Bad Version](facebook/first-bad-version.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)

@@ -33,3 +33,65 @@ search("b..") -> true
 
 先做，implement trie吧
 
+```java
+class WordDictionary {
+    
+    private class TrieNode{
+        TrieNode[] links;
+        boolean isEnd;
+        public TrieNode() {
+            links = new TrieNode[26];
+        }
+    }
+    
+    TrieNode root;
+    
+    /** Initialize your data structure here. */
+    public WordDictionary() {
+        root = new TrieNode();
+    }
+    
+    /** Adds a word into the data structure. */
+    public void addWord(String word) {
+        TrieNode node = root;
+        for (int i = 0; i < word.length(); i++) {
+            if (node.links[word.charAt(i) - 'a'] == null) {
+                node.links[word.charAt(i) - 'a'] = new TrieNode();
+            }
+            node = node.links[word.charAt(i) - 'a'];
+        }
+        node.isEnd = true;
+    }
+    
+    /** Returns if the word is in the data structure. A word could contain the dot character '.' to represent any one letter. */
+    public boolean search(String word) {
+        TrieNode node = root;
+        return helper(node, word);
+    }
+    
+    private boolean helper(TrieNode node, String word) {
+        if (node == null) return false;
+        for (int i = 0; i < word.length(); i++) {
+            if (word.charAt(i) == '.') {
+                for (int j = 0; j < 26; j++) {
+                    if (helper(node.links[j], word.substring(i + 1, word.length()))) {
+                        return true;
+                    }
+                }
+                return false;
+            }
+            if (node.links[word.charAt(i) - 'a'] == null) return false;
+            node = node.links[word.charAt(i) - 'a'];
+        }
+        return node.isEnd;
+    }
+}
+
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary obj = new WordDictionary();
+ * obj.addWord(word);
+ * boolean param_2 = obj.search(word);
+ */
+```
+
