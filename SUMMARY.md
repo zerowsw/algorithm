@@ -103,6 +103,8 @@
   * [Add and Search Word - Data structure design](facebook/add-and-search-word-data-structure-design.md)
   * [Implement Trie \(Prefix Tree\)](facebook/implement-trie-prefix-tree.md)
   * [First Bad Version](facebook/first-bad-version.md)
+  * [Maximum Sum of 3 Non-Overlapping Subarrays](facebook/maximum-sum-of-3-non-overlapping-subarrays.md)
+  * [Maximum Size Subarray Sum Equals k](facebook/maximum-size-subarray-sum-equals-k.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
