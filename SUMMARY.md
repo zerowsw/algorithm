@@ -106,6 +106,7 @@
   * [Maximum Sum of 3 Non-Overlapping Subarrays](facebook/maximum-sum-of-3-non-overlapping-subarrays.md)
   * [Maximum Size Subarray Sum Equals k](facebook/maximum-size-subarray-sum-equals-k.md)
   * [Is Graph Bipartite?](facebook/is-graph-bipartite.md)
+  * [Validate Binary Search Tree](facebook/validate-binary-search-tree.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
