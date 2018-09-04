@@ -53,3 +53,5 @@ class Solution {
 }
 ```
 
+还有，用Stack的方法，以及扫两遍，O\(1\)空间复杂度的方法，参照：[https://leetcode.com/problems/longest-valid-parentheses/solution/](https://leetcode.com/problems/longest-valid-parentheses/solution/)
+
