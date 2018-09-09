@@ -149,6 +149,7 @@
   * [Permutation in String](facebook/permutation-in-string.md)
   * [Multiply Strings](facebook/multiply-strings.md)
   * [The Maze II](facebook/the-maze-ii.md)
+  * [Range Sum Query 2D - Immutable](facebook/range-sum-query-2d-immutable.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
