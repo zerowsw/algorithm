@@ -147,6 +147,8 @@
   * [Island Perimeter](facebook/island-perimeter.md)
   * [Diagonal Traverse](facebook/diagonal-traverse.md)
   * [Permutation in String](facebook/permutation-in-string.md)
+  * [Multiply Strings](facebook/multiply-strings.md)
+  * [The Maze II](facebook/the-maze-ii.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
