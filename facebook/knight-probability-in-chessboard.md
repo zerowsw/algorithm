@@ -1,3 +1,7 @@
+---
+description: 其实这道题应该很自然地想到DP，不知道为啥脑子抽了。。
+---
+
 # Knight Probability in Chessboard
 
 ## Description
