@@ -158,6 +158,7 @@
   * [Design Search Autocomplete System](facebook/design-search-autocomplete-system.md)
   * [Substring with Concatenation of All Words](facebook/substring-with-concatenation-of-all-words.md)
   * [Regular Expression Matching](facebook/regular-expression-matching.md)
+  * [Knight Probability in Chessboard](facebook/knight-probability-in-chessboard.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
