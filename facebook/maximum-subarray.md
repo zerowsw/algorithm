@@ -22,7 +22,7 @@ If you have figured out the O\(_n_\) solution, try coding another solution using
 
 ## Solution
 
-我的直观的解法：
+我的直观的解法：（其实是Greedy的做法）
 
 ```java
 class Solution {
@@ -40,7 +40,11 @@ class Solution {
 }
 ```
 
-诶呦，看看它的follow up, divide and conquer
+也可以用DP来做，DP数组记录以当前元素结尾的subarray的最大值, 不写了。。
+
+诶呦，看看它的follow up, divide and conquer。。。。
+
+[https://www.geeksforgeeks.org/divide-and-conquer-maximum-sum-subarray/](https://www.geeksforgeeks.org/divide-and-conquer-maximum-sum-subarray/)
 
 
 
