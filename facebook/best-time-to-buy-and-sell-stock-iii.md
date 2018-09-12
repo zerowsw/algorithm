@@ -1,5 +1,5 @@
 ---
-description: 经典题，第三弹
+description: 经典题，第三弹，妈勒个鸡，这个还得仔细思考思考！！！
 ---
 
 # Best Time to Buy and Sell Stock III

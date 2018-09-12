@@ -166,6 +166,7 @@
   * [Best Time to Buy and Sell Stock II](facebook/best-time-to-buy-and-sell-stock-ii.md)
   * [Best Time to Buy and Sell Stock III](facebook/best-time-to-buy-and-sell-stock-iii.md)
   * [3Sum Smaller](facebook/3sum-smaller.md)
+  * [Maximum Subarray](facebook/maximum-subarray.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
