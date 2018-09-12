@@ -160,6 +160,8 @@
   * [Regular Expression Matching](facebook/regular-expression-matching.md)
   * [Knight Probability in Chessboard](facebook/knight-probability-in-chessboard.md)
   * [Longest Consecutive Sequence](facebook/longest-consecutive-sequence.md)
+  * [Flatten Binary Tree to Linked List](facebook/flatten-binary-tree-to-linked-list.md)
+  * [Insert into a Cyclic Sorted List](facebook/insert-into-a-cyclic-sorted-list.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
