@@ -20,3 +20,5 @@ Remove the minimum number of invalid parentheses in order to make the input stri
 
 这类问题的核心思路还是左右括号数量相等哦。
 
+
+

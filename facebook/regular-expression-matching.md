@@ -69,5 +69,9 @@ Output: false
 
 ## Solution
 
+看一看这一种情况， “aaaab“ 和 "a\*ab", 答案显然是True的，然后在匹配的时候，我们并不知道要匹配多少个。。所以，从这个角度来看，我们可能需要DFS
+
+估摸着比较好的方法是用DP或者DFS with Memory
+
 
 
