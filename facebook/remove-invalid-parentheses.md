@@ -79,3 +79,28 @@ class Solution {
 
 另外，如果只要一种结果的话，可以考虑看看BFS？ 感觉DFS退不出来啊。。（直接返回结果？？好像也可以）
 
+```java
+简单版：只输出第一个valid的	
+
+Time: O(n), 2 pass
+// 思路：按照判断isValid的思路，只要遇到stack<0就remove，完了之后reverse再来一次。
+public String removeInvalidParentheses(String s) {
+	String r = remove(s, new char[]{'(', ')'});
+	String tmp = remove(new StringBuilder(r).reverse().toString(), new char[]{')', '('});
+	return new StringBuilder(tmp).reverse().toString();
+}
+private String remove(String s, char[] p) {
+	int stack = 0;
+	for (int i = 0; i < s.length(); i++) {
+		if (s.charAt(i) == p[0])		stack++;
+		if (s.charAt(i) == p[1])		stack--;
+		if (stack < 0) {
+			s = s.substring(0, i) + s.substring(i + 1);
+			i--;
+			stack = 0;
+		}
+	}
+	return s;
+}
+```
+

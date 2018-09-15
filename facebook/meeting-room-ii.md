@@ -26,7 +26,11 @@ Output: 1
 
 ## Solution
 
-扫描线问题，sweep line algorithm
+扫描线问题，sweep line algorithm，用赵文瀚的话来说， 就是排完序之后，碰到Start ++， 碰到End --
+
+不是啊，朋友，你确定就用扫描线？我觉得有必要搞一搞一般性的解法吧。。
+
+可以考虑看看PriorityQueue的解法
 
 ```java
 /**

@@ -34,5 +34,9 @@ Explanation: The palindromes are ["battab","tabbat"]
 
 [https://leetcode.com/problems/palindrome-pairs/discuss/79195/O\(n\*k2\)-java-solution-with-Trie-structure](https://leetcode.com/problems/palindrome-pairs/discuss/79195/O%28n*k2%29-java-solution-with-Trie-structure)
 
+[https://leetcode.com/problems/palindrome-pairs/discuss/79199/150-ms-45-lines-JAVA-solution](https://leetcode.com/problems/palindrome-pairs/discuss/79199/150-ms-45-lines-JAVA-solution)
 
+
+
+卧槽，，，你他么。。。老子还等着看你的解释呢。。
 

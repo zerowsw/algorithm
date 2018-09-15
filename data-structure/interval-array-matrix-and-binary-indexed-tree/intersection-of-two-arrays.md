@@ -16,6 +16,10 @@ Can you implement it in _three_ different algorithms?
 
 有兴趣再看看别的解法吧：[https://www.jiuzhang.com/solution/intersection-of-two-arrays/](https://www.jiuzhang.com/solution/intersection-of-two-arrays/)
 
+但两者的size大小关系成为一个比较重要的考虑因素：[https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)， 尼玛，居然真的使用binary search进行优化的。。
+
+
+
 ```java
 public class Solution {
     
