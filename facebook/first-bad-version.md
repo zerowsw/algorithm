@@ -45,3 +45,25 @@ public class Solution extends VersionControl {
 }
 ```
 
+这里换一个解法，用一个res来记录，这样的话，指针移动就比较一致了：
+
+```text
+public class Solution extends VersionControl {
+    public int firstBadVersion(int n) {
+        int le = 1;
+        int ri = n;
+        int res = -1;
+        while (le <= ri) {
+            int mid = le + (ri - le) / 2;
+            if (isBadVersion(mid)) {
+                ri = mid - 1;
+                res = mid;
+            } else {
+                le = mid + 1;
+            }
+        }
+        return isBadVersion(ri) ? ri : le; 
+    }
+}
+```
+

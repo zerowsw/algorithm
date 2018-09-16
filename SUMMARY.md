@@ -190,8 +190,12 @@
   * [Minimum Depth of Binary Tree](facebook/minimum-depth-of-binary-tree.md)
   * [Untitled](facebook/untitled-1.md)
   * [Remove Nth Node From End of List](facebook/remove-nth-node-from-end-of-list.md)
+  * [Subsets](facebook/subsets.md)
+  * [Kth Smallest Element in a Sorted Matrix](facebook/kth-smallest-element-in-a-sorted-matrix.md)
+  * [Target Sum](facebook/untitled-2.md)
 * [Google](google/README.md)
   * [Candy](google/candy.md)
   * [Evaluate Division](google/evaluate-division.md)
   * [Different Ways to Add Parentheses](google/different-ways-to-add-parentheses.md)
+  * [Random Pick with Blacklist](google/random-pick-with-blacklist.md)
 

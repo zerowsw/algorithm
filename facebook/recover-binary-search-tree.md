@@ -61,6 +61,8 @@ Output: [2,1,4,null,null,3]
 
 另外，O\(1\)空间的Morris  Traversal了解一下:  [https://leetcode.com/problems/recover-binary-search-tree/discuss/32559/Detail-Explain-about-How-Morris-Traversal-Finds-two-Incorrect-Pointer](https://leetcode.com/problems/recover-binary-search-tree/discuss/32559/Detail-Explain-about-How-Morris-Traversal-Finds-two-Incorrect-Pointer)
 
+O\(1\)的解法，问问赵文瀚
+
 然后，这是我写的非递归版本：
 
 ```java
