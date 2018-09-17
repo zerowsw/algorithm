@@ -51,7 +51,44 @@ Output: []
 
 [https://leetcode.com/problems/expression-add-operators/solution/](https://leetcode.com/problems/expression-add-operators/solution/)
 
+参考了递归的解法之后，得到相当简洁的解答方法：
 
+```java
+class Solution {
+    public List<String> addOperators(String num, int target) {
+        List<String> result = new ArrayList<>();
+        helper(result, "", num, 0, 0, 0, target);
+        return result;
+    }
+    
+    public void helper(List<String> res, String formula, String num, int start, long sum, long LastFactor, int target) {
+        if (start == num.length()) {
+            if (sum == target) {
+                res.add(formula);
+            }
+            return;
+        }
+        for (int i = start; i < num.length(); i++) {
+            long newnum = Long.parseLong(num.substring(start, i + 1));
+            if (start == 0) {
+                helper(res, "" + newnum, num, i + 1, newnum, newnum, target);
+            } else {
+                helper(res, formula + "+" + newnum, num, i + 1, sum + newnum, newnum, target);
+                helper(res, formula + "*" + newnum, num, i + 1, sum - LastFactor + LastFactor * newnum, LastFactor * newnum, target);
+                helper(res, formula + "-" + newnum, num, i + 1, sum - newnum, -newnum, target); 
+            }
+            if (newnum == 0) break;
+        }
+    }
+}
+```
 
+时间复杂度分析：
 
+The process moving to N length of string gives us from 3_T\(n-1\) to 3_T\(1\) :  
+T\(n\) = 3 \* T\(n-1\) + 3 \* T\(n-2\) + 3 \* T\(n-3\) + ... + 3 \*T\(1\);  
+T\(n-1\) = 3 \* T\(n-2\) + 3 \* T\(n-3\) + ... 3 \* T\(1\);  
+Thus T\(n\) = 4T\(n-1\);
+
+所以，你懂的。。
 
