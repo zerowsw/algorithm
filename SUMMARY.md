@@ -199,4 +199,9 @@
   * [Evaluate Division](google/evaluate-division.md)
   * [Different Ways to Add Parentheses](google/different-ways-to-add-parentheses.md)
   * [Random Pick with Blacklist](google/random-pick-with-blacklist.md)
+* [Pinterest](pinterest/README.md)
+  * [Perfect Number](pinterest/perfect-number.md)
+* [Contest](contest/README.md)
+  * [Snakes and Ladders](contest/snakes-and-ladders.md)
+  * [Smallest Range II](contest/smallest-range-ii.md)
 
