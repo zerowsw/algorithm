@@ -1,6 +1,6 @@
 # Initial page
 
-Records of algorithm practicing for review.
+ Records of algorithm practicing for review.
 
 09/13/18
 
