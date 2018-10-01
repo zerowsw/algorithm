@@ -58,6 +58,8 @@ The input is two lists: the subroutines called and their arguments. `Solution`'s
 
 卧槽，binary search的方法很Tricky啊，首先我们可以很简单的之后whitelist的大小，然后获取一个whitelist size范围的随机数， 然后。。。。。。。反正就那么个意思，你自己看代码吧：
 
+你他么，，什么叫就那么个意思，而且这个方法的时空复杂度也不是最优的吧。。
+
 ```java
 class Solution {
 
