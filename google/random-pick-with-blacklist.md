@@ -1,6 +1,6 @@
 # Random Pick with Blacklist
 
-## Description
+## inDescription
 
 Given a blacklist `B` containing unique integers from `[0, N)`, write a function to return a uniform random integer from `[0, N)` which is **NOT** in `B`.
 
@@ -87,5 +87,47 @@ class Solution {
 		return lo == hi && b[lo] - lo <= k ? k + lo + 1 : k;
     }
 }
+```
+
+这个Binary Search的方法不太好想哦，有个更好的方法，假设一共N个数，blacklist的size为B， 那么whitelist的长度就是N - B,  然后，将出现在白名单范围内的黑名单数字map到后半部分的whitelist数字上面即可。
+
+```java
+class Solution {
+    int N;
+    Random rand;
+    Map<Integer, Integer> map;
+    int wlen;
+    
+    public Solution(int N, int[] blacklist) {
+        this.N = N;
+        this.rand = new Random();
+        map = new HashMap<>();
+        Set<Integer> w = new HashSet<>();
+        this.wlen = N - blacklist.length;
+        for (int i = N - blacklist.length; i < N; i++) {
+            w.add(i);
+        }
+        for (int num : blacklist) {
+            w.remove(num);
+        }
+        Iterator<Integer> it = w.iterator();
+        for (int num : blacklist) {
+            if (num < N - blacklist.length) {
+                map.put(num, it.next());
+            }
+        }   
+    }
+    
+    public int pick() {
+        int r = rand.nextInt(wlen);
+        return map.getOrDefault(r, r);
+    }
+}
+
+/**
+ * Your Solution object will be instantiated and called as such:
+ * Solution obj = new Solution(N, blacklist);
+ * int param_1 = obj.pick();
+ */
 ```
 

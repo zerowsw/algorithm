@@ -4,7 +4,7 @@ description: 快速简洁有效地构建graph， 又是一道仿佛能感觉到�
 
 # Alien Dictionary
 
-## Description
+Description
 
 There is a new alien language which uses the latin alphabet. However, the order among letters are unknown to you. You receive a list of **non-empty** words from the dictionary, where **words are sorted lexicographically by the rules of this new language**. Derive the order of letters in this language.
 

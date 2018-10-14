@@ -234,5 +234,5 @@ public class Solution {
 
 反了，反了，把所有的组合都存起来， 亏你想到的。。。。。。用words list构建trie。。
 
-{% embed data="{\"url\":\"https://www.jiuzhang.com/solution/word-search-ii/\",\"type\":\"link\",\"title\":\"九章算法 - 帮助更多中国人找到好工作，硅谷顶尖IT企业工程师实时在线授课为你传授面试技巧\",\"description\":\"九章算法致力于让顶尖的工程师在线传授最优质的计算机课程，帮助更多中国人找到好工作\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.jiuzhang.com/static/pages-frontend/ico/152.png\",\"width\":152,\"height\":152,\"aspectRatio\":1}}" %}
+{% embed url="https://www.jiuzhang.com/solution/word-search-ii/" %}
 
